@@ -19,9 +19,9 @@ In the future, I hope to work as a **data analyst** and contribute to data-drive
 
 # What I hope to learn
 
-1. Convenient and aesthetically pleasing data visualization #1
-2. Avoid misleading in my data visualization #2
-3. Other useful tools or platform  such as datawrapper #3
+1. Convenient and aesthetically pleasing data visualization 
+2. Avoid misleading in my data visualization 
+3. Other useful tools or platform  such as datawrapper 
 
 
 
@@ -33,7 +33,10 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project [To be announced!](To be announced!)
+## Assignment in the future: [Interactive Visualization](interactive-visualization)
+Interactive visualization is very useful to highlight some insighs or important information when doing presentation.
+
+## Final project [To be announced](to-be-announced)
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
