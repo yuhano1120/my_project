@@ -32,14 +32,22 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 
 
+<!-- General government debt -->
+<div id='viz1757357466810'></div>
+
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1757357706893');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var divElement = document.getElementById('viz1757357466810');
+  var vizElement = document.createElement('object');
+  vizElement.data = 'https://public.tableau.com/views/generalgovdebt/Generalgovernmentdebt?:embed=y';
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+  divElement.appendChild(vizElement);
+
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  divElement.appendChild(scriptElement);
 </script>
+
 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
