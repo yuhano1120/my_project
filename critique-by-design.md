@@ -9,10 +9,27 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I chose this visualization because it allows the audience to quickly and easily compare public holidays across countries. The map format is intuitive, and the interactive features let users access detailed information without sifting through raw data. It effectively communicates differences at a glance.
+
+[Data_Source](https://worldpopulationreview.com/country-rankings/countries-with-the-most-holidays)
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Strengths:
+
+Appropriate visualization type: Using a map allows viewers to quickly understand the geographic distribution of public holidays.
+
+Effective use of color intensity: Darker shades immediately draw attention to countries with more holidays (e.g., India), highlighting key differences at a glance.
+
+Interactive feature: Hovering over a country displays its name and exact number of holidays, providing detailed information without cluttering the map.
+
+Areas for improvement:
+
+Legend design: The current legend uses discrete increments of 5 (5, 10, …, 40, 45), but many countries do not fall exactly on these multiples. This can be misleading.
+
+Tooltip: Adding more information of the holidays and the rank.
+
+Summary:
+The visualization communicates the main message effectively and engages the audience through interactivity, but adjusting the legend would make the data representation even clearer and more precise.
 
 ## Step three: Sketch a solution
 
