@@ -41,7 +41,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 </script>
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Assignment in the future: [Interactive Visualization](interactive-visualization)
