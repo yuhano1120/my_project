@@ -30,47 +30,35 @@ In addition, I would enrich the tooltip content. Besides showing the country nam
 
 Overall, the revised design would maintain the strengths of the original (geographic clarity and interactivity) while improving both the accuracy of the legend and the depth of contextual insights available to users.
 
-
+![Sketch](draft.png)
 
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Feedback from Group Members:
 
-Questions to ask (modify these for your own interviews): 
+1. The title “Countries with the Most Holidays 2025” may be misleading, since the dataset does not include every country in the world. A more accurate and rigorous title should be used.
+2. The data source could be improved by including a direct link, so that readers who want to access the dataset themselves can do so easily.
+3. Many African countries are shown in gray because of missing data, but the legend does not explain this. A clear note or legend entry should be added to indicate that gray areas mean "No data available".
 
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Feedback from BIDa Classmates:
+1. The layout of the map could be adjusted. Most world maps place Europe and Asia on the left, with the Americas and Africa on the right. Reorganizing the map in this way would make the visualization feel more familiar and consistent with common map conventions.
+2. While the map’s color gradient reflects the overall distribution, the audience cannot easily see the exact number of holidays for each country. To address this, the visualization can either highlight the Top 5 and Bottom 5 countries with their specific values directly on the map, or include a supplementary bar chart/ranking table alongside the map for clearer comparison.
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Final Solution: The final visualization combines a choropleth map with a supplementary bar chart.
+1. The map uses a consistent gradient color scheme to show the overall distribution of holiday counts across countries. Missing data is represented in gray, with a clear legend entry indicating “No data available.”
+2. To address the map’s limitation in conveying precise values, a Top 5 / Bottom 5 bar chart is placed to the right. This chart highlights the five countries with the most holidays and the five with the fewest, using the same gradient color scale as the map to ensure consistency and readability.
+3. An interactive highlight action allows the audience to click on a country in the map to automatically highlight the same country in the bar chart (and vice versa), creating a seamless link between the two views.
+
+<div class='tableauPlaceholder' id='viz1758248147881' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ma&#47;makeoverMonday_17582312643500&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='makeoverMonday_17582312643500&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ma&#47;makeoverMonday_17582312643500&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1758248147881');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ## References
-_List any references you used here._
+[Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+The interactive link between the two visualizations (map and Top/Bottom 5 bar chart) was implemented following guidance I received from AI (ChatGPT). I applied the suggested steps to create the highlight action and integrate the two views.
 
