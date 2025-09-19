@@ -1,11 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Critique-By-Design
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 
@@ -13,25 +9,29 @@ I chose this visualization because it allows the audience to quickly and easily 
 
 [Data_Source](https://worldpopulationreview.com/country-rankings/countries-with-the-most-holidays)
 
+
 ## Step two: the critique
+
 Strengths:
-
-Appropriate visualization type: Using a map allows viewers to quickly understand the geographic distribution of public holidays.
-
-Effective use of color intensity: Darker shades immediately draw attention to countries with more holidays (e.g., India), highlighting key differences at a glance.
-
-Interactive feature: Hovering over a country displays its name and exact number of holidays, providing detailed information without cluttering the map.
+1. Appropriate visualization type: Using a map allows viewers to quickly understand the geographic distribution of public holidays.
+2. Effective use of color intensity: Darker shades immediately draw attention to countries with more holidays (e.g., India), highlighting key differences at a glance.
+3. Interactive feature: Hovering over a country displays its name and exact number of holidays, providing detailed information without cluttering the map.
 
 Areas for improvement:
-
-Legend design: The current legend uses discrete increments of 5 (5, 10, …, 40, 45), but many countries do not fall exactly on these multiples. This can be misleading.
-
-Tooltip: Adding more information of the holidays and the rank.
-
-Summary:
-The visualization communicates the main message effectively and engages the audience through interactivity, but adjusting the legend would make the data representation even clearer and more precise.
+1. Legend design: The current legend uses discrete increments of 5 (5, 10, …, 40, 45), but many countries do not fall exactly on these multiples. This can be misleading.
+2. Tooltip: Adding more information of the holidays and the rank.
 
 ## Step three: Sketch a solution
+
+To address the issue with the legend, I would redesign the visualization by replacing the discrete legend with a continuous color gradient. This would ensure that every country’s number of public holidays is represented more precisely, and the audience would have an easier time interpreting subtle differences across countries.
+To address the issue with the legend, I would redesign the visualization by replacing the discrete legend with a continuous color gradient. This would ensure that every country’s number of public holidays is represented more precisely, and the audience would have an easier time interpreting subtle differences across countries.
+
+In addition, I would enrich the tooltip content. Besides showing the country name and total number of holidays, the tooltip would also include short explanatory notes or contextual details. For example: Germany — Varies from 10–13 depending on the state. This additional information would make the visualization not only more accurate, but also more informative for audiences interested in cultural or policy differences.
+
+Overall, the revised design would maintain the strengths of the original (geographic clarity and interactivity) while improving both the accuracy of the legend and the depth of contextual insights available to users.
+
+
+
 
 ## Step four: Test the solution
 
