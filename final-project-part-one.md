@@ -24,9 +24,7 @@ Finally, I am considering combining spatial data with crime categories to see if
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+![Sketch of Overall Trends](final_project_sketch1.png)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
