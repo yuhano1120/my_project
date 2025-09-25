@@ -24,7 +24,7 @@ Finally, I am considering combining spatial data with crime categories to see if
 
 
 ## Initial sketches
-![Sketch of Overall Trends](final_project_sketch1.png)
+![Sketch of part5 interaction](IMG_7964.JPG)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
