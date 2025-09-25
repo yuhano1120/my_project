@@ -1,16 +1,13 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+For my final project, I plan to analyze crime incident data from Pennsylvania to uncover patterns across time, location, and offense type. This dataset provides detailed attributes such as report numbers, dates and times, geographic coordinates, offense categories, and neighborhoods. By visualizing these attributes, I want to highlight when crimes are most likely to occur, where they concentrate, and what types of offenses dominate in different contexts.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The goal of this project is not only to show descriptive trends but also to tell a compelling story about public safety. Crime impacts communities differently across neighborhoods, time periods, and categories. By creating a structured narrative, I want to move from a “big picture” overview into more focused insights—identifying hotspots, risky time windows, and offense categories that stand out. These insights could ultimately support better resource allocation, community awareness, and policy discussions.
 
-Text here...
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
