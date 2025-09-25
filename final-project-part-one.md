@@ -8,19 +8,19 @@ For my final project, I plan to analyze crime incident data from Pennsylvania to
 The goal of this project is not only to show descriptive trends but also to tell a compelling story about public safety. Crime impacts communities differently across neighborhoods, time periods, and categories. By creating a structured narrative, I want to move from a “big picture” overview into more focused insights—identifying hotspots, risky time windows, and offense categories that stand out. These insights could ultimately support better resource allocation, community awareness, and policy discussions.
 
 1.Overall trends
-To show the trend of #incidends in PA in months(2024.1-2025.8). Maybe I will consider using moving average to smooth the curve. 
+I plan to show the monthly trend of crime incidents in Pennsylvania from January 2024 to August 2025. To make the curve smoother and easier to interpret, I may apply a moving average. This visualization will allow us to see whether crime incidents are generally increasing, decreasing, or remaining stable. By identifying these long-term patterns, we can evaluate whether certain policies, community initiatives, or policing efforts have had an effect on crime trends.
 
 2. When do crimes happen
-I plan to use two pie charts to show the percentage of crime in night vs. day and weekdays vs. weekend.
+I will use two pie charts to show the distribution of crimes between day vs. night and weekdays vs. weekends. This analysis highlights the time periods when crimes are most likely to occur. Such insights can help law enforcement agencies allocate patrols more efficiently and help residents stay more alert during high-risk periods.
 
 3.Where do crimes happen
-To begin with, I will try to show the intensity(density) of the crimes in map using XCOORD and YCOORD. I assume that this map will be difficult to compelete but I will try first, and then decide whether I want to keep it in my project. In addition, I want to use a ranking bar plot to show the top 10 neighborhood with most crime incidents.
+First, I will attempt to create a crime density map using the XCOORD and YCOORD fields to visualize crime intensity across locations. If this proves too complex, I may adjust the method. Additionally, I plan to use a ranking bar chart to show the top 10 neighborhoods with the highest number of crime incidents. These visualizations will identify geographic hotspots of crime. By knowing where crime concentrates, city officials and communities can prioritize resources, improve urban planning, and target specific neighborhoods with preventive strategies.
 
 4. What type of crimes happen
-I want to show what kinds of crime happen most. Pie chart or stacked bar plot can help to show the percentage of NIBRS_Offense_Category or Crime_Against (Person, Property, Society).
+I will show the distribution of different crime types, using either NIBRS_Offense_Category or NIBRS_Crime_Against (Person, Property, Society). This could be visualized through a pie chart for proportions or a stacked bar chart for comparative analysis. This breakdown helps clarify which types of crimes dominate the landscape—whether crimes against people, property, or society. Such knowledge can help policymakers and the public better understand the nature of the threat and where to focus prevention efforts.
 
 5. Interaction
-
+Finally, I am considering combining spatial data with crime categories to see if certain crimes, such as property crimes, are more likely to happen in specific neighborhoods. This integrated perspective provides deeper insights into how crime types vary across locations. It can reveal underlying social or economic patterns and support tailored interventions at the community level.
 
 
 ## Initial sketches
