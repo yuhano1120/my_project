@@ -24,19 +24,27 @@ Finally, I am considering combining spatial data with crime categories to see if
 
 
 ## Initial sketches
-![Sketch of part1-3](IMG_7964.JPG)
+![Sketch of part1-3](IMG_7963.JPG)
 ![Sketch of part4-5](IMG_7964.JPG)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+The dataset covers reported crime incidents from January 2024 through August 2025 in Pittsburgh and includes detailed information such as the type of offense, the time and date of occurrence, geographic coordinates (XCOORD and YCOORD), and the classification of crimes as offenses against.
 
-Text here...
+This dataset is particularly valuable because it not only records the overall number of incidents but also provides granular details that allow for multiple dimensions of analysis. For example, the temporal fields (date and time) can be used to identify seasonal and hourly crime patterns, while the geographic coordinates can be used to map crime density and highlight high-risk neighborhoods. The offense classification fields (NIBRS_Offense_Category, NIBRS_Offense_Type, and NIBRS_Crime_Against) enable comparisons between different types of crimes, such as violent vs. property crimes.
+
+For this project, I plan to use the dataset to create visualizations that answer several key questions: How have crime trends changed over time? When are crimes most likely to occur? Where are the geographic hotspots? And what types of crimes dominate the landscape? By combining these perspectives, the project aims to tell a cohesive story about crime dynamics in Pennsylvania and to suggest potential insights for both policymakers and the general public.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|  2024-August 2025 Monthly Criminal Activity Dataset    |  https://data.wprdc.org/dataset/65e69ee3-93b2-4f7a-b9cb-8ce977f15d9a/resource/bd41992a-987a-4cca-8798-fbe1cd946b07/download/mcad_2024_aug2025.xlsx   |       This dataset includes Pittsburgh Bureau of Police crime incidents. The Monthly Criminal Activity Dashboard can utilize this data: Monthly Criminal Activity Dashboard
+
+This data follows the National Incident-Based Reporting System (NIBRS) reporting standard. More detail can be found here: https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs
+
+Similar data was previously published at Police Incident Blotter (Archive): https://data.wprdc.org/dataset/uniform-crime-reporting-data
+
+      |
 |      |     |             |
 |      |     |             |
 
