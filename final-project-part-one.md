@@ -38,16 +38,19 @@ For this project, I plan to use the dataset to create visualizations that answer
 
 | Name | URL | Description |
 |------|-----|-------------|
-|[2024-August 2025 Monthly Criminal Activity Dataset](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07)|  https://data.wprdc.org/dataset/65e69ee3-93b2-4f7a-b9cb-8ce977f15d9a/resource/bd41992a-987a-4cca-8798-fbe1cd946b07/download/mcad_2024_aug2025.xlsx|This dataset includes Pittsburgh Bureau of Police crime incidents. The Monthly Criminal Activity Dashboard can utilize this data: [Monthly Criminal Activity Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiM2FiNWUxMDUtY2MyMS00NWY2LTllZDEtZWY2OWM0NWM2ZWIyIiwidCI6ImY1ZjQ3OTE3LWM5MDQtNDM2OC05MTIwLWQzMjdjZjE3NTU5MSJ9) This data follows the National Incident-Based Reporting System (NIBRS) reporting standard. More detail can be found here: https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs Similar data was previously published at Police Incident Blotter (Archive): https://data.wprdc.org/dataset/uniform-crime-reporting-data|
+|[2024-August 2025 Monthly Criminal Activity Dataset](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07)|  https://data.wprdc.org/dataset/65e69ee3-93b2-4f7a-b9cb-8ce977f15d9a/resource/bd41992a-987a-4cca-8798-fbe1cd946b07/download/mcad_2024_aug2025.xlsx|This dataset includes Pittsburgh Bureau of Police crime incidents. The Monthly Criminal Activity Dashboard can utilize this data This data follows the National Incident-Based Reporting System (NIBRS) reporting standard.|
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan to complete my final project using Tableau as the primary visualization tool. The dataset will first be cleaned and pre-processed in Excel to ensure that the variables are in the correct format (e.g., date and time combined, coordinates converted to geographic values). Once the data is prepared, I will import it into Tableau to create a series of visualizations including line charts, pie charts, bar charts, and maps.
+
+The final output will take the form of an interactive Tableau dashboard that allows viewers to explore different aspects of the data, such as trends over time, spatial crime patterns, and the distribution of crime types, maybe I will try to use Shorthand to make the presentation more fancy. 
 
 ## References
-_List any references you used here._
+- [City of Pittsburgh. *Police Incident Data*. Western Pennsylvania Regional Data Center (WPRDC)](https://data.wprdc.org/organization/city-of-pittsburgh) (Accessed September 2025)  
+- [City of Pittsburgh. *Monthly Criminal Activity Dashboard*](https://app.powerbigov.us/view?r=eyJrIjoiM2FiNWUxMDUtY2MyMS00NWY2LTllZDEtZWY2OWM0NWM2ZWIyIiwidCI6ImY1ZjQ3OTE3LWM5MDQtNDM2OC05MTIwLWQzMjdjZjE3NTU5MSJ9) (Accessed September 2025)  
+- [Federal Bureau of Investigation. *National Incident-Based Reporting System (NIBRS)*](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs)  
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
