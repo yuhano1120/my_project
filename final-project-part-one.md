@@ -53,4 +53,7 @@ The final output will take the form of an interactive Tableau dashboard that all
 - [Federal Bureau of Investigation. *National Incident-Based Reporting System (NIBRS)*](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs)  
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+In the process of completing this assignment, I used AI tools as a support resource to improve clarity and efficiency. Specifically, AI was used to:
+1. Help with grammar refinement and wording when drafting project descriptions in English.
+2. Offer formatting guidance for technical documentation (e.g., how to add a link at GitHub).
+
