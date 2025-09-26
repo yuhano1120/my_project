@@ -7,13 +7,13 @@ For my final project, I plan to analyze crime incident data from Pennsylvania to
 
 The goal of this project is not only to show descriptive trends but also to tell a compelling story about public safety. Crime impacts communities differently across neighborhoods, time periods, and categories. By creating a structured narrative, I want to move from a “big picture” overview into more focused insights—identifying hotspots, risky time windows, and offense categories that stand out. These insights could ultimately support better resource allocation, community awareness, and policy discussions.
 
-1.Overall trends
+1. Overall trends
 I plan to show the monthly trend of crime incidents in Pennsylvania from January 2024 to August 2025. To make the curve smoother and easier to interpret, I may apply a moving average. This visualization will allow us to see whether crime incidents are generally increasing, decreasing, or remaining stable. By identifying these long-term patterns, we can evaluate whether certain policies, community initiatives, or policing efforts have had an effect on crime trends.
 
 2. When do crimes happen
 I will use two pie charts to show the distribution of crimes between day vs. night and weekdays vs. weekends. This analysis highlights the time periods when crimes are most likely to occur. Such insights can help law enforcement agencies allocate patrols more efficiently and help residents stay more alert during high-risk periods.
 
-3.Where do crimes happen
+3. Where do crimes happen
 First, I will attempt to create a crime density map using the XCOORD and YCOORD fields to visualize crime intensity across locations. If this proves too complex, I may adjust the method. Additionally, I plan to use a ranking bar chart to show the top 10 neighborhoods with the highest number of crime incidents. These visualizations will identify geographic hotspots of crime. By knowing where crime concentrates, city officials and communities can prioritize resources, improve urban planning, and target specific neighborhoods with preventive strategies.
 
 4. What type of crimes happen
