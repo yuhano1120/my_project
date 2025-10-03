@@ -46,38 +46,28 @@ The purpose of this user research is to evaluate the clarity, understandability,
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions | Interview 1 (TSBD classmate) | Interview 2 (Graduate student(python classmate)) | Interview 3 (Graduate student, BIDA) |
+|-----------|---------------------------------------------|---------------------------------------|---------------------------------------------|
+| Overall story clarity | “Yes, I can follow the story from time → location → type. It feels like a clear narrative.” | “The order makes sense, but I’d like more context about whether crime is going up or down.” | “Very logical flow, but maybe add short captions explaining why each chart matters.” |
+| 24-hour bar chart | “Easy to see crime peaks. It’s helpful.” | “Yes, but I wonder if weekends look different—can we compare weekdays vs weekends?” | “Clear, but labels could be larger to highlight peak hours.” |
+| Treemap clarity | “The big neighborhoods are clear, but small ones are hard to notice.” | “Yes, the incidents counts help, but I don’t know all the neighborhood names—maybe group them?” | “Treemap works, but tooltips or filters would make it better.” |
+| Treemap readability (small blocks) | “Hard to read tiny blocks, I just ignored them.” | “Yes, some areas disappear—it feels like lost info.” | “As a data person, I zoom in mentally, but normal users will find it messy.” |
+| Pie chart clarity | “Easy to understand three crime types.” | “Yes, but maybe colors could be stronger for contrast.” | “It works, but add both counts + percentages.” |
+| Label format (counts vs %) | “Prefer both, so I know the actual numbers and share.” | “Percentages are enough for me.” | “Both, especially for context.” |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Research Synthesis | Anticipated Changes |
+|--------------------|----------------------|
+| Story flow is understandable but could be more explanatory | Add short captions or annotations under each visualization to highlight key takeaways. |
+| Audience wants weekday vs weekend view | Add a filter or comparison chart to separate weekday vs weekend crime patterns. |
+| Treemap small blocks are unreadable | Group smaller neighborhoods into broader regions or enable tooltips. |
+| Some participants unfamiliar with neighborhood names | Provide map-based context  or a legend showing grouped neighborhoods. |
 
-> ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
