@@ -2,6 +2,8 @@
 
 # Wireframes / storyboards
 
+(shorthand sketch)[https://preview.shorthand.com/K31qOA9hxgt8khpl]
+
 | Story Section           | Description                                                                                 | Wireframe / Visualization |
 |-------------------------|---------------------------------------------------------------------------------------------|---------------------------|
 | **Introduction**        | Brief overview of Pittsburgh crime data, key attributes, and project goal: identify trends by time, location, and offense type. | Sketch of dashboard layout with main title, dataset summary, and catalog to different sections |
