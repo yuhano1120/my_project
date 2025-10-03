@@ -92,6 +92,7 @@ The purpose of this user research is to evaluate the clarity, understandability,
 | Pie chart clarity | “Easy to understand three crime types.” | “Yes, but maybe colors could be stronger for contrast.” | “It works, but add both counts + percentages.” |
 | Label format (counts vs %) | “Prefer both, so I know the actual numbers and share.” | “Percentages are enough for me.” | “Both, especially for context.” |
 
+The interviews confirmed that the target audience can generally follow the storyboard, but small adjustments—such as captions, grouping small neighborhoods, adding weekday/weekend comparisons, and enhancing labeling—will significantly improve understandability, usability, and engagement for a general public audience.
 
 # Identified changes for Part III
 
