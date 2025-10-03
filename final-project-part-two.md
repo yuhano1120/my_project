@@ -1,9 +1,16 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+| Story Section           | Description                                                                                 | Wireframe / Visualization |
+|-------------------------|---------------------------------------------------------------------------------------------|---------------------------|
+| **Introduction**        | Brief overview of Pittsburgh crime data, key attributes, and project goal: identify trends by time, location, and offense type. | Sketch of dashboard layout with main title, dataset summary, and catalog to different sections |
+| **Overall Trends**      | Show monthly crime incidents from Jan 2024 to Aug 2025.  | Line chart sketch with months on x-axis, crime count on y-axis |
+| **Time Analysis**       | Examine crime incidents by hour (0–23) to identify high-risk periods throughout the day.  | Bar chart sketch with x-axis as hours (0–23), y-axis as number of crime incidents |
+| **Location Analysis**   | Identify crime hotspots using a Treemap showing relative crime counts for different neighborhoods. | Treemap sketch; each rectangle represents a neighborhood, size corresponds to number of incidents |
+| **Crime Type Analysis** | Break down crimes by type. Pie chart or stacked bar chart shows proportions. | Pie chart or stacked bar chart sketch with labels for Person, Property, Society crimes |
+| **Interactive Map**     | Create an interactive map where users can zoom and filter by crime type, neighborhood, or time period. | Dynamic map with filters, tooltips, and color-coded crime categories |
+| **Conclusion / Implications** | Summarize key insights for policymakers and communities. Suggest next steps or interventions. | Text block with key findings and recommended actions |
 
 # User research 
 
