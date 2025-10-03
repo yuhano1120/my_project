@@ -58,6 +58,8 @@
 </script>
 
 
+I have already set Tableau’s language to English, but some elements are still displaying in Chinese. I haven’t been able to fully resolve this issue yet, and I will continue trying to fix it. If it cannot be resolved, I may switch to using Python to generate the visualizations instead.
+
 # User research 
 
 ## Target audience
