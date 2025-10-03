@@ -40,7 +40,6 @@ The purpose of this user research is to evaluate the clarity, understandability,
 |   Evaluate hourly distribution visualizations   |   The 24-hour bar chart shows crime frequency by hour. Is this easy to interpret? Do you notice clear “risk windows”?             |
 |  Evaluate neighborhood distribution visualizations    |      The Treemap shows crimes by neighborhood. Do the sizes and percentages make sense to you?            |
 |   Whether audience will be uncomfortable with some  small area in treemap that can not show neighborhoods name and incidents count   |    Is it easy to compare neighborhoods, or do you feel some names/numbers are hard to read?    |
-
 |   Evaluate crime type distribution visualizations   |     Looking at the pie chart of Person/Property/Society crimes, does it clearly communicate proportions? |
 |   Use percentages or counts in pie chart  |   Which format do you prefer percentages, counts, or both?  |
 
