@@ -67,11 +67,14 @@ The purpose of this user research is to evaluate the clarity, understandability,
 | Treemap small blocks are unreadable | Group smaller neighborhoods into broader regions or enable tooltips. |
 | Some participants unfamiliar with neighborhood names | Provide map-based context  or a legend showing grouped neighborhoods. |
 
-
-
 ## References
-_List any references you used here._
+- [City of Pittsburgh. *Police Incident Data*. Western Pennsylvania Regional Data Center (WPRDC)](https://data.wprdc.org/organization/city-of-pittsburgh) (Accessed September 2025)  
+- [City of Pittsburgh. *Monthly Criminal Activity Dashboard*](https://app.powerbigov.us/view?r=eyJrIjoiM2FiNWUxMDUtY2MyMS00NWY2LTllZDEtZWY2OWM0NWM2ZWIyIiwidCI6ImY1ZjQ3OTE3LWM5MDQtNDM2OC05MTIwLWQzMjdjZjE3NTU5MSJ9) (Accessed September 2025)  
+- [Federal Bureau of Investigation. *National Incident-Based Reporting System (NIBRS)*](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs)  
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+In the process of completing this assignment, I used AI tools as a support resource to improve clarity and efficiency. Specifically, AI was used to:
+1. Help with grammar refinement and wording when drafting project descriptions in English.
+2. Offer formatting guidance for technical documentation (e.g., how to add a link at GitHub).
+
 
