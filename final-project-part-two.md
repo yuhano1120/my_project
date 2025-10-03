@@ -27,26 +27,24 @@
 # User research 
 
 ## Target audience
-	•	Residents of Pittsburgh.
-	•	Prospective newcomers to Pittsburgh, such as students preparing to attend local universities and looking for housing.
-	•	Audience does not need prior data expertise—visualizations should be easily understandable to a general public reader.
+Residents of Pittsburgh.
+Prospective newcomers to Pittsburgh, such as students preparing to attend local universities and looking for housing.
+Audience does not need prior data expertise—visualizations should be easily understandable to a general public reader.
   
 ## Interview script
 The purpose of this user research is to evaluate the clarity, understandability, and engagement of the crime data storyboard and its visualizations. I want to ensure the visuals are meaningful for target audience who care about public safety and neighborhood information.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|  Understand overall story clarity
-    |         Do you understand the overall story of crime trends from the visuals?
-         |
-|      |      The 24-hour bar chart shows crime frequency by hour. Is this easy to interpret? Do you notice clear “risk windows”?             |
-|      |      The Treemap shows crimes by neighborhood. Do the sizes and percentages make sense to you?            |
+|  Understand overall story clarity  |   Do you understand the overall story of crime trends from the visuals?  |
+|   Evaluate hourly distribution visualizations   |   The 24-hour bar chart shows crime frequency by hour. Is this easy to interpret? Do you notice clear “risk windows”?             |
+|  Evaluate neighborhood distribution visualizations    |      The Treemap shows crimes by neighborhood. Do the sizes and percentages make sense to you?            |
 |       |    Is it easy to compare neighborhoods, or do you feel some names/numbers are hard to read?    |
 
-|   |     Looking at the pie chart of Person/Property/Society crimes, does it clearly communicate proportions? |
-|    |   Which format do you prefer—percentages, counts, or both?  |
+|   Evaluate crime type distribution visualizations   |     Looking at the pie chart of Person/Property/Society crimes, does it clearly communicate proportions? |
+|      |   Which format do you prefer—percentages, counts, or both?  |
 
-Text here!
+
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
