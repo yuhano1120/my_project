@@ -13,6 +13,30 @@
 | **Crime by Type** | Analyzing crime by category shows that the majority of incidents are property-related, such as theft and burglary. This highlights the importance of taking preventive measures to protect personal and residential property. Examples of precautionary actions include installing security cameras, using quality locks, avoiding leaving valuables in vehicles, and staying alert to suspicious activity in the surroundings. Understanding the type of crime most likely to occur allows residents to focus their safety efforts effectively. | Pie chart or stacked bar chart sketch with labels for Person, Property, Society crimes |
 | **Conclusion / Implications** | Summarize key insights for policymakers and communities. Suggest next steps or interventions. | Text block with key findings and recommended actions |
 
+
+# Story flow
+I'm going to unfold my story like this（I will outline the general process and the detailed steps involved, but I will not recite and strictly follow the script provided in the parentheses）：
+
+1. **Introduction**: Moving to a new city can be exciting — and a little nerve-wracking. 
+**Attract the attention of the target audience** ("For newcomers to Pittsburgh, understanding local safety patterns can make daily life more comfortable and informed.")
+**Introduce my data source** ("Using official crime data from 2024 to August 2025, this story explores when and where incidents most often occur — helping residents and students better understand the city’s safety landscape.")
+
+2. **Section 1**: Overall Trend (Monthly Incidents)
+**Core question**: What is the overall crime trend in Pittsburgh? Is it getting better or worse?
+**Present a line graph showing the monthly crime figures for 2024-2025** （"Let’s start with the big picture — how has crime changed over the past year?"）
+**Key points** In my data visualization, there are no signs of decreasing in crime incidents. However, July is the peak period for crimes for 2024 and 2025. Perhaps I will focus more on the obvious seasonal pattern (with higher crime rates in summer).
+**Transition** （"While this gives us a sense of the overall pattern, daily life depends on when incidents are more likely to happen. Let’s look closer at the time of day."）
+
+3. **Section 2** Crime by Hour
+**Core question**: At what time of the day do crimes occur the most? 
+**Present a bar chart showing crime incidents by hour** ("Not all hours are equally safe. Some times of day see far more incidents than others.")
+**Key points** 
+
+
+
+
+
+
 <div class='tableauPlaceholder' id='viz1759451992823' style='position: relative'><noscript><a href='#'><img alt='Monthly Crime Trends in Pittsburgh (2024 – Aug 2025)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_mothlytrend&#47;monthlytrend&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_mothlytrend&#47;monthlytrend' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_mothlytrend&#47;monthlytrend&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1759451992823');
