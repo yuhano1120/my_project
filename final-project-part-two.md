@@ -15,7 +15,7 @@
 
 
 # Story flow
-I'm going to unfold my story like this（I will outline the general process and the detailed steps involved, but I will not recite and strictly follow the script provided in the parentheses）：
+I'm going to unfold my story like this（I will outline the general process and the detailed steps involved, but I will not recite and strictly follow the script provided in the parentheses. Because I'm not a native English speaker, I use this method to make myself more fluent when giving the presentation.）：
 
 1. **Introduction**: Moving to a new city can be exciting — and a little nerve-wracking. 
 **Attract the attention of the target audience** ("For newcomers to Pittsburgh, understanding local safety patterns can make daily life more comfortable and informed.")
@@ -30,12 +30,27 @@ I'm going to unfold my story like this（I will outline the general process and 
 3. **Section 2** Crime by Hour
 **Core question**: At what time of the day do crimes occur the most? 
 **Present a bar chart showing crime incidents by hour** ("Not all hours are equally safe. Some times of day see far more incidents than others.")
-**Key points** 
+**Key points** Surprisingly, crime incidents peak in the late afternoon — around 4 to 5 PM — rather than at night. （"My understanding for this situation: This may reflect the city’s daily rhythm: as schools finish and workplaces close, more people are out, traffic increases, and interactions intensify, leading to more reported incidents. However, daytime hours, especially late afternoon, see higher reporting rates — possibly because incidents are more visible and people are more likely to report them. For newcomers, this pattern suggests that safety awareness shouldn’t only focus on late-night hours. Staying alert in crowded areas and during busy afternoon periods is just as important."）
+**Transition** ("Time isn’t the only factor — location matters just as much. So, where do these incidents happen most often?")
 
+4. **Section 3** Neighborhood Crime Hotspots
+**Core question**: Which communities have more criminal incidents?
+**Present a tree plot showing crime incidents in beighborhood** ("This map shows where crime incidents were most frequently reported.")
+**Key points** Oakland, where many universities are located, shows moderate activity compared to downtown areas. Also Shadyside and Squirrel Hill are much safer compared to downtown, so that'sm why many students choose to live here.
+**Transition** ("Finally, let’s explore what kinds of incidents make up these reports.")
 
+5. **Section 4** Crime by Type
+**Core question**: What is the most common type of crime in Pittsburgh?
+**Present a pie chart showing crime types**  ("Not all crimes are the same. Understanding what types of incidents are most common can help residents know what to watch out for.")
+**Key points** Property-related crimes make up the majority, suggesting that theft prevention (like bike locks or secure housing) is key.
+**Transition** So, what do these numbers tell us about living safely in Pittsburgh?
 
-
-
+5. **Conclusion**: What this means for newcomers
+Be mindful during busy hours. Afternoon periods (around 4–5 PM) see the highest activity — stay alert in crowded places and public transport.
+Learn your neighborhood. Each part of Pittsburgh has its own rhythm — check local data before choosing housing or walking routes.
+Protect your belongings. Since theft and property crimes are most common, simple precautions like locking bikes and securing valuables can go a long way.
+Nighttime isn’t the only risk. While late nights are quieter, awareness matters throughout the day, especially during community events or rush hours.
+Stay connected. Following campus safety updates or local community alerts helps new residents stay informed and confident in daily life.
 
 <div class='tableauPlaceholder' id='viz1759451992823' style='position: relative'><noscript><a href='#'><img alt='Monthly Crime Trends in Pittsburgh (2024 – Aug 2025)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_mothlytrend&#47;monthlytrend&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_mothlytrend&#47;monthlytrend' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_mothlytrend&#47;monthlytrend&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
