@@ -1,4 +1,4 @@
-| [home page](https://yuhano1120.github.io/my_project/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three.md) |
+| [home page](https://yuhano1120.github.io/my_project/) | [data viz examples](interactive-visualization.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three.md) |
 
 # TSWD-portfolio-templates
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
@@ -44,7 +44,6 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Challenge excersize: [Challenge excersize](interactive-visualization.md)
 
 
 ## Final project 
