@@ -53,7 +53,11 @@ In terms of structure, I followed a clear and logical “When – Where – How�
 Finally, I focused on balance between data and empathy—keeping enough factual content to stay credible while using conversational language to keep it approachable. Through this process, I learned that effective data storytelling is not about showing everything you found—it’s about showing what matters most to your audience in a way they can remember and use.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+1. Bekesius, V. (n.d.). *Photo on Unsplash.* Retrieved from [https://unsplash.com/photos/white-and-brown-city-buildings-during-daytime-Nyvq2juw4_o](https://unsplash.com/photos/white-and-brown-city-buildings-during-daytime-Nyvq2juw4_o)
+2. Lastra, P. (n.d.). *Photo on Unsplash.* Retrieved from [https://unsplash.com/photos/a-helicopter-flying-through-a-cloudy-sky-with-a-flock-of-birds-Le1RAV2Z4GM](https://unsplash.com/photos/a-helicopter-flying-through-a-cloudy-sky-with-a-flock-of-birds-Le1RAV2Z4GM)
+3. City of Pittsburgh Open Data Portal. (2025). *Crime Data (2024–2025).* Retrieved from [https://data.wprdc.org/organization/city-of-pittsburgh](https://data.wprdc.org/organization/city-of-pittsburgh)
+4. Carnegie Mellon University. (n.d.). *CMU Alert System.* Retrieved from [https://www.cmu.edu/alert/](https://www.cmu.edu/alert/)
+5. Carnegie Mellon University. (n.d.). *Rave Guardian App.* Retrieved from [https://www.cmu.edu/erm/guardian.html](https://www.cmu.edu/erm/guardian.html)
 
 ## AI acknowledgements
 I used ChatGPT (GPT-5) mainly to help me refine and shorten my presentation script.
